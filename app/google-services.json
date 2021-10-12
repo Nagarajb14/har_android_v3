@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "809734446294",
+    "firebase_url": "https://firehost-function-testing-default-rtdb.firebaseio.com",
+    "project_id": "firehost-function-testing",
+    "storage_bucket": "firehost-function-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809734446294:android:08d020bd14a78dfc12fd77",
+        "android_client_info": {
+          "package_name": "com.gmac.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUZc-54_ZAuVLrnDwShZiQfnkcPeELPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809734446294:android:ccb536d21691efc512fd77",
+        "android_client_info": {
+          "package_name": "com.jathiswarbhaskar.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUZc-54_ZAuVLrnDwShZiQfnkcPeELPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809734446294:android:0748575f1c5e2fdf12fd77",
+        "android_client_info": {
+          "package_name": "gmac.activity.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUZc-54_ZAuVLrnDwShZiQfnkcPeELPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809734446294:android:71cd30767540b2a412fd77",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.posenet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUZc-54_ZAuVLrnDwShZiQfnkcPeELPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

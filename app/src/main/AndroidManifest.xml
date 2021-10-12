@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="org.tensorflow.lite.examples.posenet">
+
+    <uses-sdk />
+
+    <dist:module dist:instant="true" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="GI4ALL-AR100"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Posenet">
+        <activity
+            android:name=".VideoRecord"
+            android:label="@string/title_activity_video_record"
+            android:launchMode="singleTop"
+
+            android:theme="@style/AppTheme.Posenet.NoActionBar"></activity>
+        <activity
+            android:name=".ModelActivity"
+            android:label="@string/title_activity_model"
+            android:theme="@style/AppTheme.Posenet.NoActionBar" />
+        <activity
+            android:name=".TestActivity"
+            android:exported="true"
+            android:label="@string/tfe_pn_app_name" />
+        <activity
+            android:name=".CameraActivity"
+            android:launchMode="singleTop"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

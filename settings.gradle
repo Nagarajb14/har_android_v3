@@ -1,0 +1,3 @@
+include ':app:autoapp'
+rootProject.name = 'TFLite PoseNet Demo App'
+include ':app', ':posenet'

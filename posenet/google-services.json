@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809734446294",
+    "firebase_url": "https://firehost-function-testing-default-rtdb.firebaseio.com",
+    "project_id": "firehost-function-testing",
+    "storage_bucket": "firehost-function-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809734446294:android:e6ec3958b293a23e12fd77",
+        "android_client_info": {
+          "package_name": "com.gmac.activity_reco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUZc-54_ZAuVLrnDwShZiQfnkcPeELPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809734446294-vqj1gbjomqg18qud0mh44ok35ndj9kvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
